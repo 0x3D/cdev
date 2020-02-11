@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cdev" Database="" Version="10.0.0">
+  <VirtualDirectory Name="fo4">
+    <Project Name="fo2uppg1" Path="fo2uppg1/fo2uppg1.project" Active="No"/>
+    <Project Name="fo2uppg2" Path="fo2uppg2/fo2uppg2.project" Active="No"/>
+    <Project Name="fo2uppg3" Path="fo2uppg3/fo2uppg3.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="fo2">
+    <Project Name="uppg1" Path="uppg1/uppg1.project" Active="No"/>
+    <Project Name="uppg3" Path="uppg3/uppg3.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="workbookch3" Path="workbookch3/workbookch3.project" Active="No"/>
+  <Project Name="basic_io" Path="basic_io/basic_io.project" Active="No"/>
+  <Project Name="workbookch4" Path="workbookch4/workbookch4.project" Active="No"/>
+  <Project Name="keypad" Path="keypad/keypad.project" Active="No"/>
+  <Project Name="delay" Path="delay/delay.project" Active="No"/>
+  <Project Name="asciidisplay" Path="asciidisplay/asciidisplay.project" Active="No"/>
+  <Project Name="graphicdisplay" Path="graphicdisplay/graphicdisplay.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="uppg1" ConfigName="Debug"/>
+      <Project Name="uppg3" ConfigName="Debug"/>
+      <Project Name="fo2uppg1" ConfigName="Debug"/>
+      <Project Name="fo2uppg2" ConfigName="Debug"/>
+      <Project Name="fo2uppg3" ConfigName="Debug"/>
+      <Project Name="workbookch3" ConfigName="Debug"/>
+      <Project Name="basic_io" ConfigName="Debug"/>
+      <Project Name="workbookch4" ConfigName="Debug"/>
+      <Project Name="keypad" ConfigName="Debug"/>
+      <Project Name="delay" ConfigName="Debug"/>
+      <Project Name="asciidisplay" ConfigName="Debug"/>
+      <Project Name="graphicdisplay" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="uppg1" ConfigName="Release"/>
+      <Project Name="uppg3" ConfigName="Release"/>
+      <Project Name="fo2uppg1" ConfigName="Release"/>
+      <Project Name="fo2uppg2" ConfigName="Release"/>
+      <Project Name="fo2uppg3" ConfigName="Release"/>
+      <Project Name="workbookch3" ConfigName="Release"/>
+      <Project Name="basic_io" ConfigName="Release"/>
+      <Project Name="workbookch4" ConfigName="Release"/>
+      <Project Name="keypad" ConfigName="Release"/>
+      <Project Name="delay" ConfigName="Release"/>
+      <Project Name="asciidisplay" ConfigName="Release"/>
+      <Project Name="graphicdisplay" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
